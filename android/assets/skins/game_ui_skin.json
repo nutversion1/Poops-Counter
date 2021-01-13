@@ -1,0 +1,48 @@
+{
+com.badlogic.gdx.graphics.Color: {
+	green: { a: 1, b: 0, g: 1, r: 0 },
+	white: { a: 1, b: 1, g: 1, r: 1 },
+	red: { a: 1, b: 0, g: 0, r: 1 },
+	black: { a: 1, b: 0, g: 0, r: 0 },
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	play: { up: play_default_button, down: play_select_button}
+	about: { up: about_default_button, down: about_select_button}
+
+	sound_home: { up: sound_home_on, checked: sound_home_off }
+	music_home: { up: music_home_on, checked: music_home_off }
+	
+	sound: { up: sound_on, checked: sound_off }
+	music: { up: music_on, checked: music_off }
+	
+	yes: { up: yes_default_button, down: yes_select_button }
+	no: { up: no_default_button, down: no_select_button }
+	
+	start: { up: start_default_button, down: start_select_button}
+	
+	reset_setup: { up: reset_setup_button_up, down: reset_setup_button_down, disabled: reset_setup_button_disabled}
+	
+	edit: { up: edit_button_up, down: edit_button_down}
+	
+	decrease_edit: { up: decrease_button_up, down: decrease_button_down, disabled: decrease_button_disabled }
+	increase_edit: { up: increase_button_up, down: increase_button_down, disabled: increase_button_disabled }
+	reset_edit: { up: reset_button_up, down: reset_button_down}
+	close_edit: { up: close_button_up, down: close_button_down}
+	
+	
+	ok: { up: ok_default_button, down: ok_select_button}
+	
+	ready: { up: ready_default_button, checked: ready_select_button }
+	rematch: { up: rematch_button_up, checked: rematch_button_down }
+
+	resume: { up: resume_button_up, down: resume_button_down }
+	restart: { up: restart_button_up, down: restart_button_down }
+	quit: { up: quit_button_up, down: quit_button_down }
+	
+	special_event_button: { up: special_event_button_up, checked: special_event_button_down }
+},
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	rules: { vScroll: scroll_bg, background: rules_window_background, vScrollKnob: scroll_knob }
+},
+}

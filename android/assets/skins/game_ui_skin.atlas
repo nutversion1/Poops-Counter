@@ -1,0 +1,472 @@
+
+game_ui_skin.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+about_default_button
+  rotate: false
+  xy: 375, 283
+  size: 175, 98
+  orig: 175, 98
+  offset: 0, 0
+  index: -1
+about_select_button
+  rotate: false
+  xy: 649, 404
+  size: 175, 98
+  orig: 175, 98
+  offset: 0, 0
+  index: -1
+bug_event_icon
+  rotate: false
+  xy: 575, 2
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+close_button_down
+  rotate: false
+  xy: 717, 121
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+close_button_up
+  rotate: false
+  xy: 771, 121
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+decrease_button_disabled
+  rotate: false
+  xy: 961, 342
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+decrease_button_down
+  rotate: false
+  xy: 950, 280
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+decrease_button_up
+  rotate: false
+  xy: 927, 218
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+edit_button_down
+  rotate: false
+  xy: 872, 97
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+edit_button_up
+  rotate: false
+  xy: 915, 97
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+event_arrow_down
+  rotate: false
+  xy: 989, 245
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: 0
+event_arrow_up
+  rotate: false
+  xy: 989, 245
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: 0
+event_arrow_down
+  rotate: false
+  xy: 989, 210
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: 1
+event_arrow_down
+  rotate: false
+  xy: 958, 102
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: 2
+event_arrow_up
+  rotate: false
+  xy: 983, 108
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: 1
+event_arrow_up
+  rotate: false
+  xy: 824, 86
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: 2
+flip_event_icon
+  rotate: false
+  xy: 984, 184
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+fog_event_icon
+  rotate: false
+  xy: 582, 26
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+hint_event_icon
+  rotate: false
+  xy: 668, 39
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+increase_button_disabled
+  rotate: false
+  xy: 530, 83
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+increase_button_down
+  rotate: false
+  xy: 592, 88
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+increase_button_up
+  rotate: false
+  xy: 654, 88
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+lock_event_icon
+  rotate: false
+  xy: 253, 77
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+mud_event_icon
+  rotate: false
+  xy: 519, 8
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+music_home_off
+  rotate: false
+  xy: 869, 184
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+music_home_on
+  rotate: false
+  xy: 825, 127
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+music_off
+  rotate: false
+  xy: 574, 349
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+music_on
+  rotate: false
+  xy: 608, 349
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+no_default_button
+  rotate: false
+  xy: 253, 8
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+no_select_button
+  rotate: false
+  xy: 730, 286
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+ok_default_button
+  rotate: false
+  xy: 276, 165
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+ok_select_button
+  rotate: false
+  xy: 276, 109
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+play_default_button
+  rotate: false
+  xy: 826, 404
+  size: 175, 98
+  orig: 175, 98
+  offset: 0, 0
+  index: -1
+play_select_button
+  rotate: false
+  xy: 375, 183
+  size: 175, 98
+  orig: 175, 98
+  offset: 0, 0
+  index: -1
+quit_button_down
+  rotate: false
+  xy: 649, 346
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+quit_button_up
+  rotate: false
+  xy: 805, 346
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+ready_button
+  rotate: false
+  xy: 2, 2
+  size: 249, 96
+  orig: 249, 96
+  offset: 0, 0
+  index: -1
+ready_default_button
+  rotate: false
+  xy: 2, 100
+  size: 272, 119
+  orig: 272, 119
+  offset: 0, 0
+  index: -1
+ready_select_button
+  rotate: false
+  xy: 375, 383
+  size: 272, 119
+  orig: 272, 119
+  offset: 0, 0
+  index: -1
+rematch_button
+  rotate: false
+  xy: 276, 68
+  size: 96, 39
+  orig: 96, 39
+  offset: 0, 0
+  index: -1
+rematch_button_down
+  rotate: false
+  xy: 574, 219
+  size: 141, 67
+  orig: 141, 67
+  offset: 0, 0
+  index: -1
+rematch_button_up
+  rotate: false
+  xy: 574, 150
+  size: 141, 67
+  orig: 141, 67
+  offset: 0, 0
+  index: -1
+reset_button_down
+  rotate: false
+  xy: 716, 71
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+reset_button_up
+  rotate: false
+  xy: 770, 71
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+reset_setup_button_disabled
+  rotate: false
+  xy: 966, 143
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+reset_setup_button_down
+  rotate: false
+  xy: 582, 43
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+reset_setup_button_up
+  rotate: false
+  xy: 625, 48
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+restart_button_down
+  rotate: false
+  xy: 374, 125
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+restart_button_up
+  rotate: false
+  xy: 374, 67
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+resume_button_down
+  rotate: false
+  xy: 363, 9
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+resume_button_up
+  rotate: false
+  xy: 574, 288
+  size: 154, 56
+  orig: 154, 56
+  offset: 0, 0
+  index: -1
+rules_window_background
+  rotate: false
+  xy: 2, 221
+  size: 371, 281
+  orig: 371, 281
+  offset: 0, 0
+  index: -1
+scroll_bg
+  rotate: false
+  xy: 552, 145
+  size: 20, 236
+  split: 9, 10, 28, 30
+  pad: -1, -1, 43, 55
+  orig: 20, 236
+  offset: 0, 0
+  index: -1
+scroll_knob
+  rotate: false
+  xy: 1003, 436
+  size: 13, 66
+  split: 4, 5, 27, 30
+  pad: -1, -1, 27, 38
+  orig: 13, 66
+  offset: 0, 0
+  index: -1
+shield_event_icon
+  rotate: false
+  xy: 668, 58
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+sound_home_off
+  rotate: false
+  xy: 872, 137
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+sound_home_on
+  rotate: false
+  xy: 919, 137
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+sound_off
+  rotate: false
+  xy: 916, 184
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+sound_on
+  rotate: false
+  xy: 950, 184
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+special_event_button_down
+  rotate: false
+  xy: 530, 31
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+special_event_button_up
+  rotate: false
+  xy: 817, 174
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+spin_event_icon
+  rotate: false
+  xy: 547, 3
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+start_default_button
+  rotate: false
+  xy: 717, 171
+  size: 98, 53
+  orig: 98, 53
+  offset: 0, 0
+  index: -1
+start_select_button
+  rotate: false
+  xy: 827, 231
+  size: 98, 53
+  orig: 98, 53
+  offset: 0, 0
+  index: -1
+yes_default_button
+  rotate: false
+  xy: 840, 286
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+yes_select_button
+  rotate: false
+  xy: 717, 226
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
